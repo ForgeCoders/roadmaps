@@ -1,15 +1,29 @@
 # 🚀 ForgeCoders Roadmaps
-Learning paths for developers.
 
-## Roadmaps
+![GitHub stars](https://img.shields.io/github/stars/ForgeCoders/roadmaps)
+![GitHub contributors](https://img.shields.io/github/contributors/ForgeCoders/roadmaps)
+![License](https://img.shields.io/github/license/ForgeCoders/roadmaps)
 
-- 🌐 Frontend Development
-- ⚙ Backend Development
-- 🐍 Python Development
-- 🟨 JavaScript Development
+> Learning paths for developers to grow their programming skills.
 
-## About
-Created by the ForgeCoders open-source community.
+## 📚 Available Roadmaps
 
-Want to contribute?
-Open an issue or submit a pull request.
+| Roadmap | Description |
+| --- | --- |
+| 🌐 Frontend | Learn modern web development |
+| ⚙ Backend | Build servers and APIs |
+| 🐍 Python | Learn Python from basics to advanced |
+| 🟨 JavaScript | Master JavaScript development |
+
+## 🤝 Contributing
+Want to help?
+
+Read our:
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Everyone is welcome!
+
+## 🌟 Community
+Created by **ForgeCoders** - an open-source developer community.
+
+Build. Learn. Share. 🔥
